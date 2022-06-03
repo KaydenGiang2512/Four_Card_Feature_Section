@@ -17,8 +17,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-using-html5-and-css3-kMcySrng9r)
+- Live Site URL: (https://kaydengiang2512.github.io/Four_Card_Feature_Section/)
 
 ## My process
 
